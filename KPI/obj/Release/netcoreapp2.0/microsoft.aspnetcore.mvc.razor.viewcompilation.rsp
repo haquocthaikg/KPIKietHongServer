@@ -1,0 +1,5 @@
+E:\ServerKPI\KPI\KPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=KPI
+--content-root=E:\ServerKPI\KPI\KPI
+--file=

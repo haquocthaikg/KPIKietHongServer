@@ -1,0 +1,11 @@
+E:\ServerKPI\KPI\KPI\bin\Debug\netcoreapp2.0\KPI.deps.json
+E:\ServerKPI\KPI\KPI\bin\Debug\netcoreapp2.0\KPI.runtimeconfig.json
+E:\ServerKPI\KPI\KPI\bin\Debug\netcoreapp2.0\KPI.runtimeconfig.dev.json
+E:\ServerKPI\KPI\KPI\bin\Debug\netcoreapp2.0\KPI.dll
+E:\ServerKPI\KPI\KPI\obj\Debug\netcoreapp2.0\KPI.csproj.CoreCompileInputs.cache
+E:\ServerKPI\KPI\KPI\obj\Debug\netcoreapp2.0\KPI.AssemblyInfoInputs.cache
+E:\ServerKPI\KPI\KPI\obj\Debug\netcoreapp2.0\KPI.AssemblyInfo.cs
+E:\ServerKPI\KPI\KPI\bin\Debug\netcoreapp2.0\KPI.pdb
+E:\ServerKPI\KPI\KPI\obj\Debug\netcoreapp2.0\KPI.dll
+E:\ServerKPI\KPI\KPI\obj\Debug\netcoreapp2.0\KPI.pdb
+E:\ServerKPI\KPI\KPI\obj\Debug\netcoreapp2.0\KPI.csprojResolveAssemblyReference.cache
